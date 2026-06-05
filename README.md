@@ -125,7 +125,6 @@ This dataset is intended for:
 ##Repository Structure
 
 -📄 Data_Hematograma_2.xlsm -> Core data pipeline, BI Dashboard, and VBA macro script repository.
--📁 SQL_Bonus -> Contains an optimized relational database script (.sql) demonstrating table-joins (INNER JOIN) and categorical aggregation (GROUP BY) for a clinical operational test requirement.
 -📄 README.md -> Project documentation.
 
 ## Project Roadmap
